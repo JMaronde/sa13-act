@@ -32,3 +32,11 @@ h1 {
 .navbar a:hover {
     background-color: rgb(52, 52, 52)
 }
+
+img {
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    right: 100px;
+    top: 300px;
+}
